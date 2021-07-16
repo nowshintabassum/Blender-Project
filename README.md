@@ -1,6 +1,6 @@
-# BurgerTown Meal  <br/>
-
-Made with blender 
+# BurgerTown Meal                                                                                                                                                                                                                                            
+**Made with blender** <br/> 
+<br/>
 Scenes in the Final Animation:
 1. All the ingredients of a burger falling one by one on a plate
 2. Coke puring inside a glass
